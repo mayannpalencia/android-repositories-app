@@ -1,6 +1,10 @@
 # android-repositories-app
 Pre-setup project for Live Coding challenge
 
+## Preview
+![Repositories App](https://user-images.githubusercontent.com/49086494/167051395-813c72da-e334-4f80-980f-eeb19f9650df.gif)
+
+
 ## Specification
 - Android Studio Bumblebee 2021.1.1 Patch 3
 - Language: Kotlin 1.6.20
