@@ -2,7 +2,7 @@
 Pre-setup project for Live Coding challenge
 
 ## Preview
-![Repositories App](https://user-images.githubusercontent.com/49086494/167051395-813c72da-e334-4f80-980f-eeb19f9650df.gif)
+![Repositories App](https://user-images.githubusercontent.com/49086494/168755171-ac8f98ab-928f-4b80-be09-b697432368c4.gif)
 
 
 ## Specification
@@ -21,8 +21,7 @@ Pre-setup project for Live Coding challenge
   * [Hilt][5] - A dependency injection library for Android that reduces the boilerplate of doing manual dependency injection.
   * [Kotlin Coroutines][6] - A concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
   * [Retrofit][7] - A type-safe HTTP client for Android and Java.
-  * [Glide][8] - A fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
-  * [Lottie][9] - A mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile.
+  * [Lottie][8] - A mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile.
   
 
 [1]: https://developer.android.com/jetpack/arch/
@@ -32,5 +31,4 @@ Pre-setup project for Live Coding challenge
 [5]: https://developer.android.com/training/dependency-injection/hilt-android
 [6]: https://developer.android.com/kotlin/coroutines
 [7]: https://square.github.io/retrofit/
-[8]: https://github.com/bumptech/glide
-[9]: https://github.com/airbnb/lottie-android
+[8]: https://github.com/airbnb/lottie-android
